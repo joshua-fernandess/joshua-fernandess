@@ -41,6 +41,8 @@ I am focused on mastering the following areas:
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![Node.js](https://img.icons8.com/fluency/48/000000/node-js.png)
 ![Markdown](https://img.icons8.com/ios/50/000000/markdown.png)
+![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
+![Linux](https://img.icons8.com/color/48/000000/linux.png)
 
 ## 💬 Let’s Connect
 
