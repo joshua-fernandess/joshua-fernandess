@@ -23,13 +23,13 @@ I am currently diving into the world of JavaScript.
 I am focused on mastering the following areas:
 - **JavaScript Fundamentals:** Understanding core concepts like variables, functions, objects, and asynchronous programming.
 - **Node.js:** Learning how to build scalable server-side applications using Node.js, Express.js, and related technologies.
-- **APIs:** Developing skills in creating and consuming RESTful APIs.
+- **APIs:** Developing skills in creating and consuming REST APIs.
 - **Database Integration:** Connecting Node.js applications with databases like MongoDB or PostgreSQL.
 
 ## 🧩 Skills I'm Developing
 
 - **JavaScript ES6+ Features:** Arrow functions, destructuring, modules, and more.
-- **Node.js and Express.js:** Building RESTful services, middleware, and routing.
+- **Node.js and Express.js:** Building REST services, middleware, and routing.
 - **Asynchronous Programming:** Promises, async/await, and handling asynchronous data.
 - **Database Operations:** Connecting and querying databases, data modeling.
 
