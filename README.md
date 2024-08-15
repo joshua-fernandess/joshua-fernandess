@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hello! My name is Josh. 👋
 
-I am currently diving into the world of JavaScript. 
+<!-- I am currently diving into the world of JavaScript. 
 
 ## 📚 Learning Goals
 
@@ -31,7 +31,7 @@ I am focused on mastering the following areas:
 - **JavaScript ES6+ Features:** Arrow functions, destructuring, modules, and more.
 - **Node.js and Express.js:** Building REST services, middleware, and routing.
 - **Asynchronous Programming:** Promises, async/await, and handling asynchronous data.
-- **Database Operations:** Connecting and querying databases, data modeling.
+- **Database Operations:** Connecting and querying databases, data modeling.  -->
 
 ### Tools and Technologies
 
