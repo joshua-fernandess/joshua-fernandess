@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello! My name is Josh. 👋
+# 
 
 <!-- I am currently diving into the world of JavaScript. 
 
@@ -44,12 +44,11 @@ I am focused on mastering the following areas:
 ![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
 ![Linux](https://img.icons8.com/color/48/000000/linux.png)
 
-## 💬 Let’s Connect
+<!-- ## 💬 Let’s Connect
 
 If you have any questions, suggestions, or if you just want to talk, feel free to reach out!
 
 - **GitHub:** [Joshua's GitHub](https://github.com/joshua-fernandess)
-<!--
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - **Email:** [your.email@example.com](mailto:your.email@example.com) -->
 
